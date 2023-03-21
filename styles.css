@@ -2,13 +2,13 @@ body {
   margin: 0;
   padding: 0;
   background: rgba(0, 0, 0, 0.9);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
 }
 
 h2 {
   text-align: center;
-  color: white;
-  margin-top: 70px;
+  color: rgb(240, 214, 176);
+  margin-top: 75px;
 }
 
 ul {
@@ -80,18 +80,18 @@ ul li:nth-child(7) {
 
 ul li:nth-child(8) {
   animation-delay: -0.6s;
-  background: #ba68c8;
-  box-shadow: 0 0 50px #ba68c8;
+  background: #f06292;
+  box-shadow: 0 0 50px #f06292;
   
 }
 ul li:nth-child(9) {
   animation-delay: -0.4s;
-  background: #f57c00;
-  box-shadow: 0 0 50px #f57c00;
+  background: #ffff00;
+  box-shadow: 0 0 50px #ffff00;
 }
 
 ul li:nth-child(10) {
   animation-delay: -0.2s;
-  background: #673ab7;
-  box-shadow: 0 0 50px #673ab7;
+  background: #76ff03;
+  box-shadow: 0 0 50px #76ff03;
 }

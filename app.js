@@ -1,5 +1,5 @@
-var name "Archana";
+var name = "Archana";
 var greeting ="Hello World!";
 var hobby ="writing";
-var age = 25;
+var age = 40;
 
